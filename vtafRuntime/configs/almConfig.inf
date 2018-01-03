@@ -1,0 +1,7 @@
+url=http://csv-alm01:8080/qcbin
+domain=DEFAULT
+project=CRICO
+username=ALMUSER
+password=1qaz2wsx3edc@
+remoteProjectPath=Subject\Functional\Automation
+projectName=ALMDEMO

@@ -1,0 +1,13 @@
+<DataTables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="file://C:/VTAF_GIT_3.0.2/Auto4GL/vtaf/vtaf-ui/xsd/DataTables.xsd" >
+	<Table name="dt1">
+		<Header>
+			<Column name="c1" type="String" />
+		</Header>
+		<Row>
+			<Value>r1c1</Value>
+		</Row>
+
+</Table>
+
+</DataTables>
